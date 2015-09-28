@@ -45,3 +45,4 @@ For our workflow I believe we should use the current development practices to be
 
 ### Communcation
 We all have different schedules. We can research how remote teams communicate to each other i.e. Gitter
+Keith Harryman..My schedule is 1130-330 MWF and 1245-315 TTh. Please see MadMother, a free game in Google Play Store. I will try to post to my github as an example of the java and libgdx I used. One idea I've had is to build a simple Mine Dodge game.
