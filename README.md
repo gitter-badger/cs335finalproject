@@ -42,3 +42,6 @@ For our workflow I believe we should use the current development practices to be
 -   Start reading documentation / tutorials on LibGDX
 -   Assign peices of the project to various members
 -  i.e. Quality Assurance Tester, Art/Sprites, Gameplay Mechanics, Data Persistance?
+
+### Communcation
+We all have different schedules. We can research how remote teams communicate to each other i.e. Gitter
