@@ -26,12 +26,10 @@ The majority of the group members come from a background of Java Development. Bo
 ## Resources
 Use this space for posting links to anything you think might be helpful for learning how to use LibGDX or for anything else that may be helpful in this project.
 
--Tutorial for setting up LibGDX and Gradle for Eclipse
- - https://www.youtube.com/watch?v=pmPMZElfNsU
--Huge database for texture packs, sprites, etc.
- - http://spritedatabase.net/
--LibGDX tutorial series
- - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
+
+ - https://www.youtube.com/watch?v=pmPMZElfNsU -Tutorial for setting up LibGDX and Gradle for Eclipse
+ - http://spritedatabase.net/ -Huge database for texture packs, sprites, etc.
+ - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx -LibGDX tutorial series
  - http://www.gamefromscratch.com/page/LibGDX-Video-Tutorial-Series.aspx (includes instructions on how to animate using sprite sheets)
 
 ## Thoughts on development process
