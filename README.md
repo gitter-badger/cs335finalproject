@@ -23,6 +23,17 @@ The majority of the group members come from a background of Java Development. Bo
 - Box2D for physics calculations / collision detecting
 - Gradle for builds/compiling
 
+## Resources
+Use this space for posting links to anything you think might be helpful for learning how to use LibGDX or for anything else that may be helpful in this project.
+
+-Tutorial for setting up LibGDX and Gradle for Eclipse
+ - https://www.youtube.com/watch?v=pmPMZElfNsU
+-Huge database for texture packs, sprites, etc.
+ - http://spritedatabase.net/
+-LibGDX tutorial series
+ - http://www.gamefromscratch.com/page/LibGDX-Tutorial-series.aspx
+ - http://www.gamefromscratch.com/page/LibGDX-Video-Tutorial-Series.aspx (includes instructions on how to animate using sprite sheets)
+
 ## Thoughts on development process
 From personal findings and research of current job postings for software engineers, I've found that most companies use the Agile methodology for their development process model. I'd be interested in learning how to build a project the Agile way
 
@@ -46,3 +57,5 @@ For our workflow I believe we should use the current development practices to be
 ### Communcation
 We all have different schedules. We can research how remote teams communicate to each other i.e. Gitter
 -  Keith Harryman..My schedule is 1130-330 MWF and 1245-315 TTh. Please see MadMother, a free game in Google Play Store. I will try to post to my github as an example of the java and libgdx I used. One idea I've had is to build a simple Mine Dodge game.
+
+- Jacob French__MW: 10am-7:20pm Th: 12:45pm-3:15pm F:10am-315pm. 
