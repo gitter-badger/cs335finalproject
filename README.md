@@ -1,5 +1,7 @@
 # CS335 Final Project
 ## Members 
+
+[![Join the chat at https://gitter.im/corykitchens/cs335finalproject](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/corykitchens/cs335finalproject?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Jacob
 - Keith
 - Brian 
